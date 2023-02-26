@@ -3,10 +3,14 @@ plans to fix a bug in a app at work. Also with plans to do an integration with m
 which is sometimes public, sometimes private, android-scratch.pad, and its to do list,
 for repetitive learning.
 
-https://developer.android.com/codelabs/basic-android-kotlin-training-affirmations-app
-https://developer.android.com/codelabs/basic-android-kotlin-training-affirmations-app-polish#0
+Google codelabs:
+  https://developer.android.com/codelabs/basic-android-kotlin-training-affirmations-app
+  https://developer.android.com/codelabs/basic-android-kotlin-training-affirmations-app-polish#0
 
-
-I listened to some trance coding music when working through the labs:
-  ♫ Best Uplifting Trance Mix - All Time Favourites #1 ♫
-  https://youtu.be/iXAbte4QXKs
+Focus music:
+  I listened to some trance coding music when working through the labs:
+    ♫ Best Uplifting Trance Mix - All Time Favourites #1 ♫
+    https://youtu.be/iXAbte4QXKs
+    
+   
+... I feel so affirmed after these inspirational codelabs
