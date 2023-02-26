@@ -1,3 +1,5 @@
+![](https://github.com/jimlitton/Affirmations/blob/main/app/src/main/res/mipmap-mdpi/ic_launcher_round.png?raw=true)
+
 My exercise with the Google RecyclerView codelab to learn about handling large dynamic list with 
 plans to fix a bug in a app at work. Also with plans to do an integration with my just for fun app, 
 which is sometimes public, sometimes private, android-scratch.pad, and its to do list,
